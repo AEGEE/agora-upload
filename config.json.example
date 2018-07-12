@@ -1,0 +1,7 @@
+{
+    "admin": {
+        "login": "chair@aegee.org",
+        "password": "test password"
+    },
+    "port": 3000
+}

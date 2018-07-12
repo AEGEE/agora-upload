@@ -1,0 +1,36 @@
+{
+  "name": "upload-tool-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^7.1.4",
+    "copy-webpack-plugin": "^4.5.1",
+    "express": "^4.16.3",
+    "express-promise-router": "^3.0.2",
+    "fs-extra": "^6.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "joi": "^13.2.0",
+    "multiparty": "^4.1.4",
+    "nodemailer": "^4.6.4",
+    "nodemailer-promise": "^2.0.0",
+    "passport": "^0.4.0",
+    "sequelize": "^4.37.6",
+    "sqlite": "^2.9.1",
+    "sqlite3": "^4.0.1",
+    "uglifyjs-webpack-plugin": "^1.2.5",
+    "uuid": "^3.2.1",
+    "vue": "^2.5.16",
+    "webpack": "^4.6.0",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.15"
+  }
+}

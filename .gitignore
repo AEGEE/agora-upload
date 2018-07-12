@@ -1,0 +1,6 @@
+node_modules/
+config.json
+database.sqlite
+.DS_Store
+public/
+uploads/
